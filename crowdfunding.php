@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Crowdfunding by Astoundify
  * Plugin URI:  https://github.com/astoundify/crowdfunding/
- * Description: A crowd funding platform in the likes of Kickstarter and Indigogo
+ * Description: A crowdfunding platform in the likes of Kickstarter and Indigogo
  * Author:      Astoundify
  * Author URI:  http://astoundify.com
  * Version:     1.7.3
